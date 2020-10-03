@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: servicio.zuul
+  cloud:
+    config:
+      uri: http://localhost:4444
